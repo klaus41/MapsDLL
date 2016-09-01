@@ -1,0 +1,16 @@
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\bin\Debug\Debug.exe.config
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\bin\Debug\Debug.exe
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\bin\Debug\Debug.pdb
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\bin\Debug\SelfHosting.dll
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\bin\Debug\System.Web.Http.dll
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\bin\Debug\Newtonsoft.Json.dll
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\bin\Debug\SelfHosting.pdb
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\bin\Debug\System.Web.Http.xml
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\bin\Debug\Newtonsoft.Json.xml
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\obj\Debug\Debug.csprojResolveAssemblyReference.cache
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\obj\Debug\Debug.exe
+C:\Users\klaus\Documents\Visual Studio 2015\Projects\SelfHosting\Debug\obj\Debug\Debug.pdb
